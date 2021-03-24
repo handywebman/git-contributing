@@ -5,7 +5,7 @@
  * @package     KnowTheCode\GitContributing\Tests\PHP
  * @since       1.0.0
  * @link        https://github.com/KnowTheCode/git-contributing
- * @license     GPL-3.0+
+ * @license     GPL-3+
  */
 
 namespace KnowTheCode\GitContributing\Tests\PHP;
