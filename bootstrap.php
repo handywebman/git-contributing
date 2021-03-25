@@ -1,6 +1,6 @@
 <?php
 /**
- * Launches the Git Contributing plugin for you to enjoy while learning about Git.
+ * Launches the Git Contributing plugin to get down on Git!
  *
  * @package     KnowTheCode\GitContributing
  * @author      hellofromTonya
